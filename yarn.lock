@@ -1157,19 +1157,19 @@
   integrity sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==
 
 "@floating-ui/core@^1.6.0":
-  version "1.6.5"
-  resolved "https://registry.npmjs.org/@floating-ui/core/-/core-1.6.5.tgz"
-  integrity sha512-8GrTWmoFhm5BsMZOTHeGD2/0FLKLQQHvO/ZmQga4tKempYRLz8aqJGqXVuQgisnMObq2YZ2SgkwctN1LOOxcqA==
+  version "1.6.6"
+  resolved "https://registry.npmjs.org/@floating-ui/core/-/core-1.6.6.tgz"
+  integrity sha512-Vkvsw6EcpMHjvZZdMkSY+djMGFbt7CRssW99Ne8tar2WLnZ/l3dbxeTShbLQj+/s35h+Qb4cmnob+EzwtjrXGQ==
   dependencies:
-    "@floating-ui/utils" "^0.2.5"
+    "@floating-ui/utils" "^0.2.6"
 
 "@floating-ui/dom@^1.0.0":
-  version "1.6.8"
-  resolved "https://registry.npmjs.org/@floating-ui/dom/-/dom-1.6.8.tgz"
-  integrity sha512-kx62rP19VZ767Q653wsP1XZCGIirkE09E0QUGNYTM/ttbbQHqcGPdSfWFxUyyNLc/W6aoJRBajOSXhP6GXjC0Q==
+  version "1.6.9"
+  resolved "https://registry.npmjs.org/@floating-ui/dom/-/dom-1.6.9.tgz"
+  integrity sha512-zB1PcI350t4tkm3rvUhSRKa9sT7vH5CrAbQxW+VaPYJXKAO0gsg4CTueL+6Ajp7XzAQC8CW4Jj1Wgqc0sB6oUQ==
   dependencies:
     "@floating-ui/core" "^1.6.0"
-    "@floating-ui/utils" "^0.2.5"
+    "@floating-ui/utils" "^0.2.6"
 
 "@floating-ui/react-dom@^2.1.1":
   version "2.1.1"
@@ -1179,18 +1179,18 @@
     "@floating-ui/dom" "^1.0.0"
 
 "@floating-ui/react@^0.26.9":
-  version "0.26.20"
-  resolved "https://registry.npmjs.org/@floating-ui/react/-/react-0.26.20.tgz"
-  integrity sha512-RixKJJG92fcIsVoqrFr4Onpzh7hlOx4U7NV4aLhMLmtvjZ5oTB/WzXaANYUZATKqXvvW7t9sCxtzejip26N5Ag==
+  version "0.26.21"
+  resolved "https://registry.npmjs.org/@floating-ui/react/-/react-0.26.21.tgz"
+  integrity sha512-7P5ncDIiYd6RrwpCDbKyFzvabM014QlzlumtDbK3Bck0UueC+Rp8BLS34qcGBcN1pZCTodl4QNnCVmKv4tSxfQ==
   dependencies:
     "@floating-ui/react-dom" "^2.1.1"
-    "@floating-ui/utils" "^0.2.5"
+    "@floating-ui/utils" "^0.2.6"
     tabbable "^6.0.0"
 
-"@floating-ui/utils@^0.2.5":
-  version "0.2.5"
-  resolved "https://registry.npmjs.org/@floating-ui/utils/-/utils-0.2.5.tgz"
-  integrity sha512-sTcG+QZ6fdEUObICavU+aB3Mp8HY4n14wYHdxK4fXjPmv3PXZZeY5RaguJmGyeH/CJQhX3fqKUtS4qc1LoHwhQ==
+"@floating-ui/utils@^0.2.6":
+  version "0.2.6"
+  resolved "https://registry.npmjs.org/@floating-ui/utils/-/utils-0.2.6.tgz"
+  integrity sha512-0KI3zGxIUs1KDR/pjQPdJH4Z8nGBm0yJ5WRoRfdw1Kzeh45jkIfA0rmD0kBF6fKHH+xaH7g8y4jIXyAV5MGK3g==
 
 "@humanwhocodes/config-array@^0.11.14":
   version "0.11.14"
@@ -1476,15 +1476,15 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@mantine/charts@^7.11.2":
-  version "7.11.2"
-  resolved "https://registry.npmjs.org/@mantine/charts/-/charts-7.11.2.tgz"
-  integrity sha512-iCmE2pTkUYsha/EWQoa9RZongmCGREaPOZqcqX47JBidgOdveyDYC+wMXsODc+buIofLUSfA6cLnjxPNgJzQGA==
+"@mantine/charts@^7.12.0":
+  version "7.12.0"
+  resolved "https://registry.npmjs.org/@mantine/charts/-/charts-7.12.0.tgz"
+  integrity sha512-1ME1iRBWipKaKF6/v5MVg07+q0KHcPsSGQLTxHh3E2eGy+0Um1s/vDvl+dQKOE6hhttvz0/mUFY3ar/KLwyjew==
 
-"@mantine/core@7.11.2":
-  version "7.11.2"
-  resolved "https://registry.npmjs.org/@mantine/core/-/core-7.11.2.tgz"
-  integrity sha512-T64RjdgY8UPAv249miW1lQyPPot1JbCcKKsAZMNQHgcttcxLhrFpKVvglc4/48hdSoxI4LYJPNvqp7zciZmucQ==
+"@mantine/core@7.12.0":
+  version "7.12.0"
+  resolved "https://registry.npmjs.org/@mantine/core/-/core-7.12.0.tgz"
+  integrity sha512-FxsaIaEnqxV71MBGGsvXXad2q9KYTaIQFVP4TSAZI6xLChklXF/qJTqvabweaoW9BaVQT75b/BnUoJFzPfyAfw==
   dependencies:
     "@floating-ui/react" "^0.26.9"
     clsx "^2.1.1"
@@ -1493,10 +1493,10 @@
     react-textarea-autosize "8.5.3"
     type-fest "^4.12.0"
 
-"@mantine/hooks@7.11.2":
-  version "7.11.2"
-  resolved "https://registry.npmjs.org/@mantine/hooks/-/hooks-7.11.2.tgz"
-  integrity sha512-jhyVe/sbDEG2U8rr2lMecUPgQxcfr5hh9HazqGfkS7ZRIMDO7uJ947yAcTMGGkp5Lxtt5TBFt1Cb6tiB2/1agg==
+"@mantine/hooks@7.12.0":
+  version "7.12.0"
+  resolved "https://registry.npmjs.org/@mantine/hooks/-/hooks-7.12.0.tgz"
+  integrity sha512-UKMSpQZMdmecZX1PKPoknfUOE9MfDPiZR1myU4wUUKpaZibvvmhYuy8mcOOmYWegapRS3ErKIAc2cNnJ1Dk4RQ==
 
 "@mdx-js/react@^3.0.0":
   version "3.0.1"
@@ -1974,54 +1974,38 @@
   resolved "https://registry.npmjs.org/@storybook/test/-/test-8.2.6.tgz"
   integrity sha512-nTzNxReBcMRlX1+8PNU/MuA9ArFbeQhfZXMBIwJJoHOhnNe1knYpyn1++xINxAHKOh0BBhQ0NIMoKdcGmW3V6w==
   dependencies:
-    "@jridgewell/resolve-uri": "npm:^3.1.0"
-    "@jridgewell/sourcemap-codec": "npm:^1.4.14"
-  checksum: 10c0/3d1ce6ebc69df9682a5a8896b414c6537e428a1d68b02fcc8363b04284a8ca0df04d0ee3013132252ab14f2527bc13bea6526a912ecb5658f0e39fd2860b4df4
-  languageName: node
-  linkType: hard
+    "@storybook/csf" "0.1.11"
+    "@storybook/instrumenter" "8.2.6"
+    "@testing-library/dom" "10.1.0"
+    "@testing-library/jest-dom" "6.4.5"
+    "@testing-library/user-event" "14.5.2"
+    "@vitest/expect" "1.6.0"
+    "@vitest/spy" "1.6.0"
+    util "^0.12.4"
 
-"@mantine/core@npm:7.11.2":
-  version: 7.11.2
-  resolution: "@mantine/core@npm:7.11.2"
+"@storybook/testing-library@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.npmjs.org/@storybook/testing-library/-/testing-library-0.2.2.tgz"
+  integrity sha512-L8sXFJUHmrlyU2BsWWZGuAjv39Jl1uAqUHdxmN42JY15M4+XCMjGlArdCCjDe1wpTSW6USYISA9axjZojgtvnw==
   dependencies:
-    "@floating-ui/react": "npm:^0.26.9"
-    clsx: "npm:^2.1.1"
-    react-number-format: "npm:^5.3.1"
-    react-remove-scroll: "npm:^2.5.7"
-    react-textarea-autosize: "npm:8.5.3"
-    type-fest: "npm:^4.12.0"
-  peerDependencies:
-    "@mantine/hooks": 7.11.2
-    react: ^18.2.0
-    react-dom: ^18.2.0
-  checksum: 10c0/ca13547e9961d908701c8c1825c4b99eb4a757060c22fc5a6c681a32ec58ec33fa58951978d395f5054f8823cdcaae3562f88631ef2ad6cd1d22414fa167d327
-  languageName: node
-  linkType: hard
+    "@testing-library/dom" "^9.0.0"
+    "@testing-library/user-event" "^14.4.0"
+    ts-dedent "^2.2.0"
 
-"@mantine/hooks@npm:7.11.2":
-  version: 7.11.2
-  resolution: "@mantine/hooks@npm:7.11.2"
-  peerDependencies:
-    react: ^18.2.0
-  checksum: 10c0/78bcea73ab89513c07a0ad2283a11f91d7caa2c6c2139c48ae94ae8adebfcf9aca1b333db32a79195455606cc499b98f4e0654e056ec137abbf19ec4ccb1fa5b
-  languageName: node
-  linkType: hard
+"@storybook/theming@^8.0.0", "@storybook/theming@^8.2.6":
+  version "8.2.6"
+  resolved "https://registry.npmjs.org/@storybook/theming/-/theming-8.2.6.tgz"
+  integrity sha512-ICnYuLIVsYifVCMQljdHgrp+5vAquNybHxDGWiPeOxBicotwHF8rLhTckD2CdVQbMp0jk6r6jetvjXbFJ2MbvQ==
 
-"@mdx-js/react@npm:^3.0.0":
-  version: 3.0.1
-  resolution: "@mdx-js/react@npm:3.0.1"
-  dependencies:
-    "@types/mdx": "npm:^2.0.0"
-  peerDependencies:
-    "@types/react": ">=16"
-    react: ">=16"
-  checksum: 10c0/d210d926ef488d39ad65f04d821936b668eadcdde3b6421e94ec4200ca7ad17f17d24c5cbc543882586af9f08b10e2eea715c728ce6277487945e05c5199f532
-  languageName: node
-  linkType: hard
+"@swc/counter@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.npmjs.org/@swc/counter/-/counter-0.1.3.tgz"
+  integrity sha512-e2BR4lsJkkRlKZ/qCHPw9ZaSxc0MVUd7gtbtaB7aMvHeJVYe8sOB8DBZkP2DtISHGSku9sCK6T6cnY0CtXrOCQ==
 
-"@ndelangen/get-tarball@npm:^3.0.7":
-  version: 3.0.9
-  resolution: "@ndelangen/get-tarball@npm:3.0.9"
+"@swc/helpers@0.5.5":
+  version "0.5.5"
+  resolved "https://registry.npmjs.org/@swc/helpers/-/helpers-0.5.5.tgz"
+  integrity sha512-KGYxvIOXcceOAbEk4bi/dVLEK9z8sZ0uBB3Il5b1rhfClSpcX0yfRO0KmTkqR2cnQDymwLB+25ZyMzICg/cm/A==
   dependencies:
     "@swc/counter" "^0.1.3"
     tslib "^2.4.0"
@@ -7174,110 +7158,27 @@ makeerror@1.0.12:
   resolved "https://registry.npmjs.org/makeerror/-/makeerror-1.0.12.tgz"
   integrity sha512-JmqCvUhmt43madlpFzG4BQzG2Z3m6tvQDNKdClZnO3VbIudJYmxsT0FNJMeiB2+JTSlTQTSbU8QdesVmwJcmLg==
   dependencies:
-    "@npmcli/agent": "npm:^2.0.0"
-    cacache: "npm:^18.0.0"
-    http-cache-semantics: "npm:^4.1.1"
-    is-lambda: "npm:^1.0.1"
-    minipass: "npm:^7.0.2"
-    minipass-fetch: "npm:^3.0.0"
-    minipass-flush: "npm:^1.0.5"
-    minipass-pipeline: "npm:^1.2.4"
-    negotiator: "npm:^0.6.3"
-    promise-retry: "npm:^2.0.1"
-    ssri: "npm:^10.0.0"
-  checksum: 10c0/43b9f6dcbc6fe8b8604cb6396957c3698857a15ba4dbc38284f7f0e61f248300585ef1eb8cc62df54e9c724af977e45b5cdfd88320ef7f53e45070ed3488da55
-  languageName: node
-  linkType: hard
+    tmpl "1.0.5"
 
-"makeerror@npm:1.0.12":
-  version: 1.0.12
-  resolution: "makeerror@npm:1.0.12"
-  dependencies:
-    tmpl: "npm:1.0.5"
-  checksum: 10c0/b0e6e599780ce6bab49cc413eba822f7d1f0dfebd1c103eaa3785c59e43e22c59018323cf9e1708f0ef5329e94a745d163fcbb6bff8e4c6742f9be9e86f3500c
-  languageName: node
-  linkType: hard
+map-or-similar@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.npmjs.org/map-or-similar/-/map-or-similar-1.5.0.tgz"
+  integrity sha512-0aF7ZmVon1igznGI4VS30yugpduQW3y3GkcgGJOp7d8x8QrizhigUxjI/m2UojsXXto+jLAH3KSz+xOJTiORjg==
 
-"mantine-next-template@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "mantine-next-template@workspace:."
-  dependencies:
-    "@babel/core": "npm:^7.24.7"
-    "@mantine/core": "npm:7.11.2"
-    "@mantine/hooks": "npm:7.11.2"
-    "@next/bundle-analyzer": "npm:^14.2.4"
-    "@next/eslint-plugin-next": "npm:^14.2.4"
-    "@storybook/addon-essentials": "npm:^8.1.10"
-    "@storybook/addon-styling-webpack": "npm:^1.0.0"
-    "@storybook/blocks": "npm:^8.1.10"
-    "@storybook/nextjs": "npm:^8.1.10"
-    "@storybook/react": "npm:^8.1.10"
-    "@storybook/testing-library": "npm:^0.2.2"
-    "@tabler/icons-react": "npm:^3.6.0"
-    "@testing-library/dom": "npm:^10.1.0"
-    "@testing-library/jest-dom": "npm:^6.4.6"
-    "@testing-library/react": "npm:^16.0.0"
-    "@testing-library/user-event": "npm:^14.5.2"
-    "@types/jest": "npm:^29.5.12"
-    "@types/node": "npm:^20.14.8"
-    "@types/react": "npm:18.3.3"
-    "@typescript-eslint/eslint-plugin": "npm:^7.13.1"
-    "@typescript-eslint/parser": "npm:^7.13.1"
-    babel-loader: "npm:^9.1.3"
-    eslint: "npm:^8.57.0"
-    eslint-config-airbnb: "npm:19.0.4"
-    eslint-config-airbnb-typescript: "npm:^18.0.0"
-    eslint-config-mantine: "npm:3.2.0"
-    eslint-plugin-import: "npm:^2.29.1"
-    eslint-plugin-jest: "npm:^28.6.0"
-    eslint-plugin-jsx-a11y: "npm:^6.9.0"
-    eslint-plugin-react: "npm:^7.34.3"
-    eslint-plugin-react-hooks: "npm:^4.6.2"
-    eslint-plugin-testing-library: "npm:^6.2.2"
-    jest: "npm:^29.7.0"
-    jest-environment-jsdom: "npm:^29.7.0"
-    next: "npm:14.2.4"
-    postcss: "npm:^8.4.38"
-    postcss-preset-mantine: "npm:1.17.0"
-    postcss-simple-vars: "npm:^7.0.1"
-    prettier: "npm:^3.3.2"
-    react: "npm:18.3.1"
-    react-dom: "npm:18.3.1"
-    storybook: "npm:^8.1.10"
-    storybook-dark-mode: "npm:^4.0.2"
-    stylelint: "npm:^16.6.1"
-    stylelint-config-standard-scss: "npm:^13.1.0"
-    ts-jest: "npm:^29.1.5"
-    typescript: "npm:5.5.2"
-  languageName: unknown
-  linkType: soft
+markdown-to-jsx@^7.4.5:
+  version "7.4.7"
+  resolved "https://registry.npmjs.org/markdown-to-jsx/-/markdown-to-jsx-7.4.7.tgz"
+  integrity sha512-0+ls1IQZdU6cwM1yu0ZjjiVWYtkbExSyUIFU2ZeDIFuZM1W42Mh4OlJ4nb4apX4H8smxDHRdFaoIVJGwfv5hkg==
 
-"map-or-similar@npm:^1.5.0":
-  version: 1.5.0
-  resolution: "map-or-similar@npm:1.5.0"
-  checksum: 10c0/33c6ccfdc272992e33e4e99a69541a3e7faed9de3ac5bc732feb2500a9ee71d3f9d098980a70b7746e7eeb7f859ff7dfb8aa9b5ecc4e34170a32ab78cfb18def
-  languageName: node
-  linkType: hard
+mathml-tag-names@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.npmjs.org/mathml-tag-names/-/mathml-tag-names-2.1.3.tgz"
+  integrity sha512-APMBEanjybaPzUrfqU0IMU5I0AswKMH7k8OTLs0vvV4KZpExkTkY87nR/zpbuTPj+gARop7aGUbl11pnDfW6xg==
 
-"markdown-to-jsx@npm:7.3.2":
-  version: 7.3.2
-  resolution: "markdown-to-jsx@npm:7.3.2"
-  peerDependencies:
-    react: ">= 0.14.0"
-  checksum: 10c0/191b9a9defeed02e12dd340cebf279f577266dac7b34574fa44ce4d64ee8536f9967d455b8303c853f84413feb473118290a6160d8221eeaf3b9e4961b8980e3
-  languageName: node
-  linkType: hard
-
-"mathml-tag-names@npm:^2.1.3":
-  version: 2.1.3
-  resolution: "mathml-tag-names@npm:2.1.3"
-  checksum: 10c0/e2b094658a2618433efd2678a5a3e551645e09ba17c7c777783cd8dfa0178b0195fda0a5c46a6be5e778923662cf8dde891c894c869ff14fbb4ea3208c31bc4d
-  languageName: node
-  linkType: hard
-
-"md5.js@npm:^1.3.4":
-  version: 1.3.5
-  resolution: "md5.js@npm:1.3.5"
+md5.js@^1.3.4:
+  version "1.3.5"
+  resolved "https://registry.npmjs.org/md5.js/-/md5.js-1.3.5.tgz"
+  integrity sha512-xitP+WxNPcTTOgnTJcrhM0xvdPepipPSf3I8EIpGKeFLjt3PlJLIDG3u8EX53ZIubkb+5U2+3rELYpEhHhzdkg==
   dependencies:
     hash-base "^3.0.0"
     inherits "^2.0.1"
